@@ -10,7 +10,7 @@ body{
 }
 
 .logo img{
-    width: 40px;
+    width: 35px;
     height: 40px;
 }
 
@@ -223,6 +223,8 @@ footer{
 }
 
 footer p{
+    padding-top: 5px;
+    padding-bottom: 10px;
     margin: 1% 0 ;
     color: #0A3871;
     font-family: sans-serif;
@@ -348,12 +350,6 @@ body{
     margin: 4% 3%;
 }
 
-/*LOGO*/
-
-.logo img{
-    width: 35px;
-}
-
 /*TEXTO*/
 
 .input{
@@ -394,7 +390,7 @@ body{
 /*RECTANGULO*/
 
 .rectangulo{
-    top: 61%;
+    top: 62%;
 }
 
 .msg1{
@@ -410,7 +406,7 @@ body{
 
 footer{
     width:95%;
-    top: 95%;
+    top: 96%;
 }
 
 footer img{
