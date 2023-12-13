@@ -4,7 +4,7 @@ El primer reto o desafio brindado por Oracle ONE con Alura Latam, el objetivo es
 
 ## Programa
 
-<a href="https://angelprz8a.github.io/Challenge-ONE-Encriptador-de-Texto/">Encriptador de Texto</a>
+<a href="https://angelprz8a.github.io/ONE_Encriptador/">Encriptador de Texto</a>
 
 ## Construido con 
 
