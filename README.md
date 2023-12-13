@@ -4,7 +4,7 @@ El primer reto o desafio brindado por Oracle ONE con Alura Latam, el objetivo es
 
 ## Programa
 
-<a href="https://angelprz008a.github.io/Challenge-ONE-Encriptador-de-Texto/">Encriptador de Texto</a>
+<a href="https://angelprz8a.github.io/Challenge-ONE-Encriptador-de-Texto/">Encriptador de Texto</a>
 
 ## Construido con 
 
@@ -12,6 +12,11 @@ El primer reto o desafio brindado por Oracle ONE con Alura Latam, el objetivo es
 * CSS 3
 * JavaScript
 
-## Autor
+## Links
 
-  - **Juan Angel Perez Ochoa** - [Linkedin](https://www.linkedin.com/in/angel-programmer-junior) - [GitHub](https://github.com/AngelPrz008a)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://angelprz8a.github.io/Portafolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelprz8a/)
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
